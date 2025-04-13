@@ -1,4 +1,4 @@
-FROM deepnote/python:3.10
+FROM deepnote/python:3.10-datascience
 
 ENV NODE_VERSION=18.16.0
 ENV NVM_DIR=/opt/nvm
